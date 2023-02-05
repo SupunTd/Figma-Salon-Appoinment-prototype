@@ -2,4 +2,4 @@
 
 salon prototype website source link
 
-[source link](https://www.figma.com/file/HHB0CpOT6XIDsj1zb4NWqD/EG_2019_3568?node-id=401%3A397&t=bwjn5ETFoY1RzQQA-1)
+[source link](https://www.figma.com/file/L1sVBSjCyWjlGISmOmSTgv/Salon-Appoints-website?node-id=0%3A1&t=2ljOmHITmWQ5sHho-1)
